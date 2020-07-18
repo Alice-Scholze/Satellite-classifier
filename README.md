@@ -17,6 +17,7 @@ Tarefas: <br>
 Haviam duas possibilidades de caminho para seguir:
 - [utilizar apenas os pixeis principais (atributos 17, 18, 19, e 20)](Satellite_svm.R)
 - [treinar os modelos com todas as colunas](Satellite_rf.R)
+<br>
 Para averiguar os resultados de ambas as formas, foi realizado o treinamento das duas formas.
 
 ### Treinamento utilizando os pixeis principais
