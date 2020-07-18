@@ -28,6 +28,7 @@ no seguinte:
 - Random Forest: 0.8349 de acuracia
 - Support Vector Machines: 0.8567 de acuracia
 - Neural Network: 0.7064 de acuracia
+<br>
 Com relação a acuracia, o algoritmo que mostrou o melhor resultado foi o Support Vector.
 Como o SVM mostrou melhor resultado para acuracia, foi realizado um treino com o 
 mesmo, utilizando toda a base de dados e os valores de sigma (0.8159919) e C (1) iguais ao
@@ -43,6 +44,7 @@ no seguinte:
 - Random Forest: 0.912 de acuracia
 - Support Vector Machines: 0.9081 de acuracia
 - Neural Network: 0.6121 de acuracia
+<br>
 Com relação a acuracia, o algoritmo que mostrou o melhor resultado foi o Random Forest.
 Como o Random Forest mostrou melhor resultado para acuracia, foi realizado um treino com o 
 mesmo, utilizando toda a base de dados e o valor de mtry do modelo anteriormente treinado.
